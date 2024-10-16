@@ -4,3 +4,4 @@
 1. [Podstawowe polecenia Linux](Linux/Podstawowe-polecenia-linux.md)
 2. [Podstawowe polecenia Windows](Windows/Podstawowe-polecenia-windows.md)
 3. [Rodzaje licencji oprogramowania](rodzaje-licencji.md)
+4. [Rodzaje złośliwego oprogramowania](rodzaje-zlosliwego-oprogramowania.md)
