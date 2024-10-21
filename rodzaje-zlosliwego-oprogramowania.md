@@ -1,8 +1,11 @@
 # Rodzaje Złośliwego Oprogramowania
 ## Wirusy
 **Opis:** Programy, które dołączają się do innych plików i rozprzestrzeniają się po ich uruchomieniu.
+
 **Sławne Ataki:** Melissa, ILOVEYOU
+
 **Rodzaje Szkód:** Uszkodzenie plików, spowolnienie systemu, kradzież danych.
+
 ##### Sposoby Zapobiegania
 - Unikanie otwierania podejrzanych załączników e-mail.
 ## Robaki
