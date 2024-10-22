@@ -17,5 +17,8 @@ Unicode to bardziej zaawansowany system kodowania znaków, który ma na celu rep
 - `U+0041` - Litera "A"
 - `U+03A3` - Grecka litera sigma "Σ"
 - `U+1F600` - Emotikona "😀"
+### Linki
+- [Strona Unicode](https://home.unicode.org/)
+- [Tabela Unicode](https://symbl.cc/en/unicode-table/)
 ## Podsumowanie
 ASCII jest prostym i powszechnie używanym systemem kodowania znaków, ale jego ograniczenia sprawiają, że Unicode jest bardziej wszechstronny i przyszłościowy, zwłaszcza w kontekście globalizacji i różnorodności językowej.
